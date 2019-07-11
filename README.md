@@ -10,7 +10,7 @@ pattern to refer to the (unique) assumption matching this pattern in
 the context.
 
 An alternative to this plugin is Pierre Courtieu's
-[LibHypsNaming](http://cedric.cnam.fr/~courtiep/downloads/LibHypsNaming.v)
+[LibHyps](https://github.com/Matafou/LibHyps)
 Ltac library, which computes the name of assumptions from their types.
 
 ## Code Example
